@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e03309d9ca361ce498f2a0ee1a3812e3
+timeCreated: 1498323732
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gotham Pro Narrow
+  fontNames:
+  - Gotham Pro Narrow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 900508f86b6cc0c428c63ac55d9c465e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

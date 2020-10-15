@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2e800b9d24b30264d9e020ed4419a6a1
+timeCreated: 1480761232
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Solomon Sans Black
+  fontNames:
+  - Solomon Sans Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

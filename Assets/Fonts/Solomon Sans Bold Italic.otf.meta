@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a01e5eeac9d1bdd4a9edbc8768be8a2b
+timeCreated: 1480761232
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Solomon Sans Bold Italic
+  fontNames:
+  - Solomon Sans Bold Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

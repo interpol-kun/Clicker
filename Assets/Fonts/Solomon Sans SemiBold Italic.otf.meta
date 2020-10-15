@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 295adb528a362954ba0da025ecea4020
+timeCreated: 1480761232
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Solomon Sans SemiBold Italic
+  fontNames:
+  - Solomon Sans SemiBold Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

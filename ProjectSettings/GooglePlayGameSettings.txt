@@ -1,0 +1,9 @@
+lastUpgrade=00939
+proj.pluginVersion=0.9.39a
+proj.AppId=914758027495
+and.BundleId=com.Dreamcoat.CryptoClicker
+proj.classDir=Assets
+proj.ConstantsClassName=CryptoClickerResources
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e914758027495%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.Dreamcoat.CryptoClicker%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test_1%22%3eCgkI55HP3s8aEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test_2%22%3eCgkI55HP3s8aEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test_3%22%3eCgkI55HP3s8aEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test_4%22%3eCgkI55HP3s8aEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_test_5%22%3eCgkI55HP3s8aEAIQBA%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=914758027495-5v88o0i0paa6drnlge373e97eq7c0luv.apps.googleusercontent.com
+android.SetupDone=true

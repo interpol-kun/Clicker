@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 92d89c7d079e73542a2d82bdfe92b747
+timeCreated: 1480761232
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Solomon Sans Light Italic
+  fontNames:
+  - Solomon Sans Light Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

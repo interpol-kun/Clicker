@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f739da2e6b63924ea656f9fe3f6bbdf
+timeCreated: 1480761232
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Solomon Sans Book Italic
+  fontNames:
+  - Solomon Sans Book Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
